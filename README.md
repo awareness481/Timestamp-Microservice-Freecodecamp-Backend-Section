@@ -1,12 +1,14 @@
 ## Timestamp Microservice
 
 This project is intended for FreeCodeCamp's [Timestamp Microservice](https://www.freecodecamp.org/challenges/timestamp-microservice) challenge
+Glitch url: https://relic-shake.glitch.me/
 
 #### Usage
 
 * Run `$ npm install` in the root folder of the project
 * Run `$ npm start` to start the local server
 * Visit `localhost:3000`
+* Enter a date or a unix timestamp after `localhost:3000`
 
 #### User stories
 
